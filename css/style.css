@@ -3,13 +3,13 @@
     padding: 0;
     box-sizing: border-box;
     justify-content: center;
-    font-family: 'Pacifico', cursive;
 }
 
 .main-content-text {
     margin: 10px;
     padding: 10px;
-
+    font-family: 'Balsamiq Sans', cursive;
+    font-style: normal;
 }
 
 .creators-list {
@@ -24,9 +24,12 @@ section p {
 
 h2 {
     color: orangered;
+    font-family: 'Balsamiq Sans', cursive;
+    font-style: bold;
 }
 
 p {
     color: #595959;
-
+    font-family: 'Balsamiq Sans', cursive;
+    font-style: normal;
 }
