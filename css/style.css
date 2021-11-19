@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     justify-content: center;
+    background-color: teal;
 }
 
 .main-content-text {
@@ -46,7 +47,7 @@ h2 {
 }
 
 p {
-    color: #595959;
+    color: yellow;
     font-family: 'Marck Script', cursive;
     font-style: normal;
 }
