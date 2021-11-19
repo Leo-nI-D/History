@@ -11,10 +11,27 @@
     font-family: 'Marck Script', cursive;
     font-style: normal;
 }
+.main-content-image{
+    margin: 10px;
+    padding: 10px;
+}
+.king{
+    margin: 25px 0;
+}
+.prussia{
+    margin: 25px 0;
+}
+
+.germany{
+    margin: 25px 0;
+}
 
 .creators-list {
     list-style-type: none;
     margin: 0 10px;
+    font-family: 'Marck Script', cursive;
+    font-style: normal;
+    color: peru;
 }
 
 section p {
